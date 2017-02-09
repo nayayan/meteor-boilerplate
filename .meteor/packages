@@ -25,10 +25,16 @@ dburles:collection-helpers
 mdg:validated-method
 
 # routing
-kadira:flow-router@2.11.0
+kadira:flow-router
 kadira:blaze-layout
 arillo:flow-router-helpers
 zimme:active-route
+
+# accounts
+accounts-base
+accounts-password
+useraccounts:unstyled
+raix:handlebar-helpers
 
 # production
 #nigtmere:infinite-scroll
